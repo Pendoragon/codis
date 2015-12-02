@@ -6,7 +6,6 @@
 *.log.*
 
 martini_log
-_workspace
 .htaccess
 
 /bin
